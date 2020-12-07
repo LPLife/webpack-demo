@@ -26,6 +26,7 @@ public
 release
 release_zip
 
+dist
 distPub
 transPath
 .project
