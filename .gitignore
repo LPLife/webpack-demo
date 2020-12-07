@@ -18,6 +18,15 @@
 .env.test.local
 .env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+
+**/package-lock.json
+**/yarn.lock
+**/.vscode/
+public
+release
+release_zip
+
+distPub
+transPath
+.project
+.DS_Store
